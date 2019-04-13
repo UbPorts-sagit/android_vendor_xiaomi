@@ -164,7 +164,6 @@ special_mode_mask values:
       <A3Preview>imx386_semco_hfr_120_3a</A3Preview>
       <A3Video>imx386_semco_hfr_120_3a</A3Video>
     </ChromatixName>
-    
     <ChromatixName sensor_resolution_index="5" special_mode_mask="0">
       <ISPPreview>imx386_semco_hfr_120</ISPPreview>
       <ISPSnapshot>imx386_semco_hfr_120</ISPSnapshot>
@@ -175,8 +174,17 @@ special_mode_mask values:
       <CPPLiveshot>imx386_semco_cpp_hfr_120</CPPLiveshot>
       <A3Preview>imx386_semco_hfr_240_3a</A3Preview>
       <A3Video>imx386_semco_hfr_240_3a</A3Video>
-    </ChromatixName>   
-    
-    
+    </ChromatixName>
+    <ChromatixName sensor_resolution_index="6" special_mode_mask="0">
+      <ISPPreview>imx386_semco_snapshot_hdr</ISPPreview>
+      <ISPSnapshot>imx386_semco_snapshot_hdr</ISPSnapshot>
+      <ISPVideo>imx386_semco_snapshot_hdr</ISPVideo>
+      <CPPPreview>imx386_semco_cpp_snapshot_hdr</CPPPreview>
+      <CPPSnapshot>imx386_semco_cpp_snapshot_hdr</CPPSnapshot>
+      <CPPVideo>imx386_semco_cpp_video_hdr</CPPVideo>
+      <CPPLiveshot>imx386_semco_cpp_video_hdr</CPPLiveshot>
+      <A3Preview>imx386_semco_hdr_snapshot_3a</A3Preview>
+      <A3Video>imx386_semco_hdr_video_3a</A3Video>
+    </ChromatixName>
   </ResolutionChromatixInfo>
 </ChromatixConfigurationRoot>
