@@ -163,4 +163,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libmmcamera_sagit_imx268_liteon_eeprom.so:system/vendor/lib/libmmcamera_sagit_imx268_liteon_eeprom.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libmmcamera_sagit_imx268_primax_eeprom.so:system/vendor/lib/libmmcamera_sagit_imx268_primax_eeprom.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libmmcamera_sagit_imx386_semco_eeprom.so:system/vendor/lib/libmmcamera_sagit_imx386_semco_eeprom.so \
-    vendor/xiaomi/sagit/proprietary/vendor/lib/libmmcamera_sagit_s5k3m3_semco_eeprom.so:system/vendor/lib/libmmcamera_sagit_s5k3m3_semco_eeprom.so
+    vendor/xiaomi/sagit/proprietary/vendor/lib/libmmcamera_sagit_s5k3m3_semco_eeprom.so:system/vendor/lib/libmmcamera_sagit_s5k3m3_semco_eeprom.so \
+    vendor/xiaomi/sagit/proprietary/etc/watermark_font_2300_3199.dat:system/etc/watermark_font_2300_3199.dat \
+    vendor/xiaomi/sagit/proprietary/fonts/Roboto-Thin.ttf:system/fonts/Roboto-Thin.ttf
