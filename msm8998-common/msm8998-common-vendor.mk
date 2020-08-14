@@ -20,6 +20,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/msm8998-common/proprietary/bin/cnd:system/bin/cnd \
     vendor/xiaomi/msm8998-common/proprietary/bin/cnss-daemon:system/bin/cnss-daemon \
     vendor/xiaomi/msm8998-common/proprietary/bin/energy-awareness:system/bin/energy-awareness \
+    vendor/xiaomi/msm8998-common/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/xiaomi/msm8998-common/proprietary/bin/hvdcp_opti:system/bin/hvdcp_opti \
     vendor/xiaomi/msm8998-common/proprietary/bin/ims_rtp_daemon:system/bin/ims_rtp_daemon \
     vendor/xiaomi/msm8998-common/proprietary/bin/imscmservice:system/bin/imscmservice \
