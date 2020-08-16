@@ -35,6 +35,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sagit/proprietary/etc/qdcm_calib_data_lgd_fhd_cmd_incell_dsi_panel.xml:system/etc/qdcm_calib_data_lgd_fhd_cmd_incell_dsi_panel.xml \
     vendor/xiaomi/sagit/proprietary/etc/sensors/hals.conf:system/etc/sensors/hals.conf \
     vendor/xiaomi/sagit/proprietary/etc/sensors/sensor_def_qcomdev.conf:system/etc/sensors/sensor_def_qcomdev.conf \
+    vendor/xiaomi/sagit/proprietary/etc/MIUI_Time.ttf:system/etc/MIUI_Time.ttf \
     vendor/xiaomi/sagit/proprietary/etc/thermal-engine-8998.conf:system/etc/thermal-engine-8998.conf \
     vendor/xiaomi/sagit/proprietary/lib64/hw/consumerir.default.so:system/lib64/hw/consumerir.default.so \
     vendor/xiaomi/sagit/proprietary/lib64/hw/fingerprint.fpc.msm8998.so:system/lib64/hw/fingerprint.fpc.msm8998.so \
